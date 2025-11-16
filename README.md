@@ -29,14 +29,14 @@ V1/V2 = e [ -a (L1+L2 ) ]
 
 | Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
 |--------------|---------------------|------------------------|
-|              |                     |                        |
-
+|      0.5     |     60.1v           |    9.8v                |
+|      1       |     64.8v           |    13v                 |
 ### Bending Loss
 
 | Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
 |------------------|---------------------|------------------------|
-|                  |                     |                        |
-
+|    3             |       6.3v          |        7.5v            |
+|    5             |       6.6v          |        7.4v            |
 **Result:**  
 Attenuation and bending loss characteristics verified.
 
